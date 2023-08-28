@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a blog app**
+ 🔭 I’m currently working on **a e-commerce app**
  
  🌱 I’m currently learning **Redux, Tailwind CSS, NodeJS**
 
@@ -49,7 +49,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
+
   <br/><br/><br/>
 </div> -->
 
