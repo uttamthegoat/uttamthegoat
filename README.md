@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a e-commerce app**
+ 🔭 I’m currently working on **My Portfolio website**
  
- 🌱 I’m currently learning **Redux, Tailwind CSS, NodeJS**
+ 🌱 I’m currently learning **AngularJS**
 
-💬 Ask me about **Node.js, React, Cloudinary, MongoDB... or anything [here](https://github.com/uttamthegoat/uttamthegoat/issues)**
+💬 Ask me about **NodeJS, React, NextJS, MongoDB... or anything [here](https://github.com/uttamthegoat/uttamthegoat/issues)**
 
-⚡ Fun fact **Gear 5 shatters servers of Crunchyroll, ‘history has been made in Anime world’ claim fans.**
+⚡ Fun fact **One Piece Chapter 1107 Leaks: Luffy thrashes Saturn with new technique.**
 
  </div>
  
