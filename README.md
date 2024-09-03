@@ -12,11 +12,11 @@
  
  🔭 I’m currently working on **My Portfolio website**
  
- 🌱 I’m currently learning **AngularJS**
+ 🌱 I’m currently learning **Flutter**
 
-💬 Ask me about **NodeJS, React, NextJS, MongoDB... or anything [here](https://github.com/uttamthegoat/uttamthegoat/issues)**
+💬 Ask me about **NodeJS, React, NextJS, Flutter... or anything [here](https://github.com/uttamthegoat/uttamthegoat/issues)**
 
-⚡ Fun fact **One Piece Chapter 1107 Leaks: Luffy thrashes Saturn with new technique.**
+⚡ Quote I follow **You do not rise to the level of your goals. You fall to the level of your systems.**
 
  </div>
  
@@ -38,8 +38,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,js,ts,nodejs,express,nextjs,firebase,mongodb,c,typescript,angular,tailwind,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts,nodejs,express,nextjs,mongodb,c,typescript,angular,tailwind,vite" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,git,tailwind,netlify,wordpress,stackoverflow,redux,postman,github,vercel" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </div>
 
 <br/>
